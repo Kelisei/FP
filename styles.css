@@ -1,0 +1,10 @@
+.darkened {
+    filter: brightness(20%);
+}
+.text-shadow{
+    text-shadow: 1px 1px 2px black, 0 0 1em rgb(253, 253, 253), 0 0 0.2em rgb(255, 255, 255);
+}
+.divider {
+    height: 100px !important;
+    width: 100% !important;
+}
